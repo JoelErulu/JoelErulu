@@ -1,5 +1,4 @@
 <!-- Profile Header Image -->
-<img src="<YOUR_HEADER_IMAGE_URL>" alt="Header Image" width="100%" />
 
 ## Hi there 👋 I'm Joel Erulu!
 
